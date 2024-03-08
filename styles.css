@@ -146,10 +146,6 @@ nav ul a button:hover {
   color: hsl(256, 26%, 20%);
 }
 
-.homepageRight {
-  position: relative;
-}
-
 .bg-pattern-intro-right-desktop {
   position: absolute;
   right: 0;
@@ -338,7 +334,7 @@ footer > div {
   display: flex;
   align-items: start;
   justify-content: start;
-  gap: 10rem;
+  gap: 6rem;
   margin: 2.5rem 0;
 }
 
